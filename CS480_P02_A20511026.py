@@ -11,7 +11,7 @@ from copy import deepcopy
 
 # Only valid input
 if len(sys.argv) != 3:
-    print('Pranav, Kuchibhotla, A20511026 solution:')
+    print('Abdul, Mueed, A20511026 solution:')
     print('ERROR: Not enough or too many input arguments.')
     sys.exit(0)
 
@@ -56,7 +56,7 @@ assignment = [initial]
 
 
 def main():
-    print('Pranav, Kuchibhotla, A20511026 solution:')
+    print('Abdul, Mueed, A20511026 solution:')
     print('Initial state:', initial_State)
     print('Minimum number of parks:', NumOfParks)
 
