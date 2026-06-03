@@ -45,16 +45,14 @@ If no valid path is found, the program reports failure with appropriate details:
 
 ## How to Run
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/pranav-here/US-Road-Trip-CSP-Solver.git
-    ```
+
 2. Navigate to the project directory:
     ```bash
     cd US-Road-Trip-CSP-Solver
     ```
 3. Run the script with the following arguments:
     ```bash
-    python cs480_P02_20511026.py <Initial State> <Minimum Parks>
+    python cs480_P02_20538004.py <Initial State> <Minimum Parks>
     ```
    
 ## Skills Demonstrated
